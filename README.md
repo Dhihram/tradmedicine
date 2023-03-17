@@ -1,4 +1,10 @@
 # Socio-culture and Health Problem Factors on Traditional Medicine Use among Indonesian Adult: A Cross-sectional Analysis from National Survey
+## Yeni Indriyani<sup>1</sup>, Dihram Tenrisau<sup>2</sup>, Paricha Nippanon<sup>3</sup>,Anootnara T Kuster<sup>3</sup>,Teerasak Phajan<sup>4</sup>
+### <sup>1</sup>Department of Public Health, Universitas Muhammadiyah Surakarta
+### <sup>2</sup>Department of Epidemiology, Faculty of Public Health, Universitas Indonesia
+### <sup>3</sup>Faculty of Public Health, Khon Kaen University, Khon Kaen, Thailand
+### <sup>4</sup>Sirindhron College of Public Health, Khon Kaen, Thailand
+
 ![GitHub Releases](https://img.shields.io/badge/available-data-red)
 ![GitHub Releases](https://img.shields.io/badge/available-syntax-blue)
 
